@@ -200,12 +200,12 @@ export function PoolMaintenance() {
 
             <div className="prose prose-lg text-muted-foreground space-y-6">
               <p>
-                Bali's tropical climate, while perfect for outdoor living, presents significant challenges for pool maintenance. Understanding these challenges is the first step to keeping your pool in optimal condition. Here's why regular professional maintenance is crucial for pools in Bali:
+                Bali's tropical climate, while perfect for outdoor living, presents significant challenges for pool maintenance. Understanding these challenges is the first step to keeping your pool in optimal condition. Here's why regular professional maintenance is crucial for pools in Bali. We partner with leading water treatment specialists like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> to deliver comprehensive pool care solutions.
               </p>
 
               <h3 className="text-2xl font-bold text-foreground mt-8">The Humidity Challenge</h3>
               <p>
-                Bali's high humidity, often exceeding 80%, accelerates the growth of algae and bacteria in pool water. Without proper chemical balance and regular treatment, green algae can bloom within days, turning your sparkling pool into an unsightly mess. Our maintenance program includes preventive algaecide treatment and consistent chlorine management to keep algae at bay.
+                Bali's high humidity, often exceeding 80%, accelerates the growth of algae and bacteria in pool water. Without proper chemical balance and regular treatment, green algae can bloom within days, turning your sparkling pool into an unsightly mess. Our maintenance program, aligned with the standards of the <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Bali pool service network</a>, includes preventive algaecide treatment and consistent chlorine management to keep algae at bay.
               </p>
 
               <h3 className="text-2xl font-bold text-foreground mt-8">Monsoon Season Considerations</h3>

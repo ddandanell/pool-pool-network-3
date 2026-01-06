@@ -86,7 +86,7 @@ const blogPosts = [
       </ul>
 
       <h2>Professional Leak Detection in Bali</h2>
-      <p>At Bali Pool Pros, we use advanced technology to locate leaks precisely without destructive excavation. Our process includes:</p>
+      <p>At Bali Pool Pros, we use advanced technology to locate leaks precisely without destructive excavation. As part of the professional <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" style="color: #3b82f6; font-weight: 600; text-decoration: none;">Bali pool service network</a>, our process includes:</p>
       <ol>
         <li><strong>Visual Inspection:</strong> Examining the pool, equipment, and surrounding area for obvious issues</li>
         <li><strong>Pressure Testing:</strong> Isolating and pressurizing plumbing lines to identify line leaks</li>

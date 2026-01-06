@@ -163,7 +163,7 @@ export function Contact() {
                 Send Us a Message
               </h2>
               <p className="text-muted-foreground mb-8">
-                Fill out the form below and our team will get back to you promptly. For urgent matters, please call our phone number directly.
+                Fill out the form below and our team will get back to you promptly. For urgent matters, please call our phone number directly. We collaborate with trusted partners like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> to provide comprehensive pool solutions.
               </p>
 
               <Form {...form}>

@@ -84,10 +84,10 @@ export function Home() {
               </h2>
               <div className="prose prose-lg text-muted-foreground space-y-4">
                 <p>
-                  Welcome to Bali Pool Pros, your expert partner for all pool services in Bali. Since 2010, we've been helping villa owners, resort managers, and homeowners keep their pools in pristine condition. Our team of 50+ certified technicians combines local expertise with international standards to deliver exceptional results.
+                  Welcome to Bali Pool Pros, your expert partner for all pool services in Bali. Since 2010, we've been helping villa owners, resort managers, and homeowners keep their pools in pristine condition. Our team of 50+ certified technicians combines local expertise with international standards to deliver exceptional results. We collaborate with trusted partners like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> for comprehensive water quality solutions.
                 </p>
                 <p>
-                  Operating a pool in Bali's tropical climate presents unique challenges—from rapid algae growth due to warmth and humidity, to equipment wear from constant use and monsoon season complications. That's why our pool services are specifically designed for Bali's conditions. We don't just maintain pools; we understand them.
+                  Operating a pool in Bali's tropical climate presents unique challenges—from rapid algae growth due to warmth and humidity, to equipment wear from constant use and monsoon season complications. That's why our pool services are specifically designed for Bali's conditions. As part of the broader <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Bali pool service network</a>, we don't just maintain pools; we understand them.
                 </p>
                 <p>
                   Whether you need weekly maintenance to keep your villa pool sparkling, emergency repair for a leaking resort pool, or expert installation of a new infinity pool overlooking rice fields, Bali Pool Pros has you covered. Experience the difference of working with Bali's pool experts.
