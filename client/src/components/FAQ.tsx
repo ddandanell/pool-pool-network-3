@@ -17,7 +17,7 @@ const faqData = [
   },
   {
     question: "How much does pool service cost in Bali?",
-    answer: "Pool service costs in Bali vary based on pool size and service type. Contact us to get a price tailored to your specific needs. We provide transparent pricing with no hidden fees."
+    answer: "Contact us to get a price tailored to your specific needs. We provide transparent service with no hidden fees."
   },
   {
     question: "Do you provide emergency pool repair services?",

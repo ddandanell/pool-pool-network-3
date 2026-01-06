@@ -14,7 +14,7 @@ const services = [
     title: "Pool Maintenance Bali",
     slug: "/pool-maintenance",
     icon: Sparkles,
-    description: "Regular maintenance keeps your pool sparkling clean and safe. Our weekly and monthly maintenance programs are designed specifically for Bali's tropical climate, preventing algae growth and equipment issues before they become costly problems.",
+    description: "Regular maintenance keeps your pool sparkling clean and safe. Our weekly and monthly maintenance programs are designed specifically for Bali's tropical climate, preventing algae growth and equipment issues before they become problems.",
     features: ["Weekly water testing", "Chemical balancing", "Skimming & vacuuming", "Filter cleaning", "Equipment inspection"],
     image: heroImage
   },
@@ -185,7 +185,7 @@ export function Services() {
                     What sets us apart is our commitment to using advanced technology and eco-friendly practices. Our ultrasonic leak detection equipment can locate hidden leaks without destructive excavation, saving you time and money. We use environmentally responsible chemicals that are effective yet gentle on Bali's precious ecosystem. And our digital reporting system keeps you informed about your pool's condition at all times.
                   </p>
                   <p>
-                    Every pool service we provide comes with our satisfaction guarantee and a 1-year warranty on repairs. We believe in transparent pricing with no hidden fees, and our customer service team is available around the clock for emergencies. When you choose Bali Pool Pros, you're choosing Bali's most trusted pool service provider.
+                    Every pool service we provide comes with our satisfaction guarantee and a 1-year warranty on repairs. We believe in transparent service with no hidden fees, and our customer service team is available around the clock for emergencies. When you choose Bali Pool Pros, you're choosing Bali's most trusted pool service provider.
                   </p>
                 </div>
               </div>

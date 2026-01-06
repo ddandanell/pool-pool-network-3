@@ -299,7 +299,7 @@ export function Contact() {
                     "Same-day response during business hours",
                     "No obligation consultations",
                     "Expert advice on pool care in Bali",
-                    "Transparent pricing with no hidden fees",
+                    "Transparent service with no hidden fees",
                     "24/7 emergency service available"
                   ].map((item, i) => (
                     <li key={i} className="flex items-center gap-3 text-gray-300">
@@ -403,7 +403,7 @@ export function Contact() {
                   We offer free consultations for all our pool services. Not sure what your pool needs? Our experts will assess your situation and provide honest recommendations—without any pressure or obligation. We believe in earning your business through transparency and expertise, not high-pressure sales tactics.
                 </p>
                 <p>
-                  All quotes we provide are detailed and comprehensive. You'll see exactly what services are included, what materials will be used, and what the final cost will be. No hidden fees, no surprises. Just straightforward pricing you can trust.
+                  All quotes we provide are detailed and comprehensive. You'll see exactly what services are included, what materials will be used. No hidden fees, no surprises. Just straightforward service you can trust.
                 </p>
 
                 <h3 className="text-2xl font-bold text-foreground mt-8">Serving All of Bali</h3>

@@ -272,7 +272,7 @@ export function PoolInstallation() {
 
               <h3 className="text-2xl font-bold text-foreground mt-8">Smart Pool Technology</h3>
               <p>
-                For clients who want the latest in pool technology, we offer complete automation systems. Control your pool's pump, lighting, heating (if applicable), and water features from your smartphone. Automated chemical monitoring systems maintain perfect water balance with minimal intervention. Salt chlorination systems provide gentler sanitization with lower ongoing costs.
+                For clients who want the latest in pool technology, we offer complete automation systems. Control your pool's pump, lighting, heating (if applicable), and water features from your smartphone. Automated chemical monitoring systems maintain perfect water balance with minimal intervention. Salt chlorination systems provide gentler sanitization.
               </p>
             </div>
           </div>
@@ -314,7 +314,7 @@ export function PoolInstallation() {
                 What's Included in Our Pool Installation
               </h2>
               <p className="text-muted-foreground mb-8">
-                Our comprehensive pool installation package covers everything from initial design to final handover. No hidden costs, no surprises.
+                Our comprehensive pool installation package covers everything from initial design to final handover. No hidden surprises.
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">

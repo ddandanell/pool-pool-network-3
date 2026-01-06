@@ -225,7 +225,7 @@ export function PoolRepair() {
             <div className="prose prose-lg text-muted-foreground space-y-6">
               <h3 className="text-2xl font-bold text-foreground">Pool Leaks in Bali</h3>
               <p>
-                Pool leaks are one of the most common and costly problems facing pool owners in Bali. A leaking pool can waste hundreds of liters of water daily, leading to sky-high water bills and potential structural damage to your villa or property. Leaks can occur in the pool shell, plumbing lines, around fittings, or at the equipment pad.
+                Pool leaks are one of the most common problems facing pool owners in Bali. A leaking pool can waste hundreds of liters of water daily, leading to high water bills and potential structural damage to your villa or property. Leaks can occur in the pool shell, plumbing lines, around fittings, or at the equipment pad.
               </p>
               <p>
                 Our leak detection process uses advanced ultrasonic equipment that can hear the sound of water escaping through even the smallest cracks. Combined with pressure testing and dye testing, we can pinpoint the exact location of leaks without destructive excavation. Once located, our skilled technicians repair the leak using appropriate methods—from underwater epoxy patching to pipe replacement—ensuring a lasting fix.
