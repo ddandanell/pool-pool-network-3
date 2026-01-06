@@ -58,7 +58,7 @@ export function BookingModal({ open, onOpenChange }: BookingModalProps) {
         <DialogHeader>
           <DialogTitle className="font-display text-2xl">Book Diagnostic Visit</DialogTitle>
           <DialogDescription>
-            Fixed fee of <strong>IDR 500k</strong>. Includes full inspection report. 
+            Fixed fee available. Includes full inspection report. 
             Fee is credited toward any approved repair work.
           </DialogDescription>
         </DialogHeader>
