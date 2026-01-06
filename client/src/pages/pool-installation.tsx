@@ -139,10 +139,10 @@ export function PoolInstallation() {
                   A swimming pool is more than just a place to swim—it's the centerpiece of your Bali property, a sanctuary for relaxation, and an investment in your lifestyle. At Bali Pool Pros, we design and build custom pools that capture the essence of tropical paradise while meeting the highest standards of quality and durability.
                 </p>
                 <p>
-                  Our pool installation team combines international construction standards with deep knowledge of Bali's unique conditions. We understand the challenges of building in volcanic soil, the importance of proper drainage during monsoon season, and how to create pools that complement the island's stunning natural landscapes.
+                  Our pool installation team combines international construction standards with deep knowledge of Bali's unique conditions. We understand the challenges of building in volcanic soil, the importance of proper drainage during monsoon season, and how to create pools that complement the island's stunning natural landscapes. We collaborate with leading water system specialists like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> for optimal water management.
                 </p>
                 <p>
-                  From initial design consultation to final commissioning, we guide you through every step of the pool building process. Whether you're envisioning a dramatic infinity pool overlooking the ocean, a serene villa pool surrounded by tropical gardens, or a functional lap pool for daily exercise, we bring your vision to life with precision and artistry.
+                  From initial design consultation to final commissioning, we guide you through every step of the pool building process. As part of the professional <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Bali pool service network</a>, whether you're envisioning a dramatic infinity pool overlooking the ocean, a serene villa pool surrounded by tropical gardens, or a functional lap pool for daily exercise, we bring your vision to life with precision and artistry.
                 </p>
               </div>
             </div>

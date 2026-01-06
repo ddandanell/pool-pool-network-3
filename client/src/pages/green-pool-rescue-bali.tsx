@@ -76,11 +76,11 @@ export function GreenPoolRescueBali() {
             
             <div className="prose prose-lg max-w-none text-muted-foreground space-y-6">
               <p>
-                <strong>Green pool rescue Bali</strong> services are frequently needed due to the island's unique tropical environment. Bali's tropical environment creates perfect conditions for explosive algae growth. High temperatures (28-32°C), intense sunlight, and humidity levels above 80% allow algae spores to multiply within hours when chlorine levels drop. At BalipoolCare.online, we specialize in rapid algae removal and water recovery for pools that have turned green due to neglect, equipment failure, or extended vacancy.
+                <strong>Green pool rescue Bali</strong> services are frequently needed due to the island's unique tropical environment. Bali's tropical environment creates perfect conditions for explosive algae growth. High temperatures (28-32°C), intense sunlight, and humidity levels above 80% allow algae spores to multiply within hours when chlorine levels drop. At BalipoolCare.online, we specialize in rapid algae removal and water recovery for pools that have turned green due to neglect, equipment failure, or extended vacancy. We work with water treatment specialists like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> for comprehensive recovery solutions.
               </p>
 
               <p>
-                Extended monsoon rains dilute pool chemicals further, while warm water temperatures accelerate bacterial and algae reproduction. Power outages affecting pumps, neglected vacation properties, and equipment malfunctions commonly lead to green pool emergencies in Bali. Our <strong>green pool rescue Bali</strong> service addresses all these scenarios with immediate response and professional recovery protocols.
+                Extended monsoon rains dilute pool chemicals further, while warm water temperatures accelerate bacterial and algae reproduction. Power outages affecting pumps, neglected vacation properties, and equipment malfunctions commonly lead to green pool emergencies in Bali. Our <strong>green pool rescue Bali</strong> service, backed by the expertise of the <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Bali pool service network</a>, addresses all these scenarios with immediate response and professional recovery protocols.
               </p>
 
               <div className="grid md:grid-cols-2 gap-6 my-12">
