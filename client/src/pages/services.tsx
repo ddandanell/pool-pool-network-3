@@ -14,7 +14,7 @@ const services = [
     title: "Pool Maintenance Bali",
     slug: "/pool-maintenance",
     icon: Sparkles,
-    description: "Regular maintenance keeps your pool sparkling clean and safe. Our weekly and monthly maintenance programs are designed specifically for Bali's tropical climate, preventing algae growth and equipment issues before they become costly problems.",
+    description: "Regular maintenance keeps your pool sparkling clean and safe. Our weekly and monthly maintenance programs are designed specifically for Bali's tropical climate, preventing algae growth and equipment issues before they become problems.",
     features: ["Weekly water testing", "Chemical balancing", "Skimming & vacuuming", "Filter cleaning", "Equipment inspection"],
     image: heroImage
   },

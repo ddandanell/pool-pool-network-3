@@ -12,8 +12,8 @@ import pumpImg from "@assets/generated_images/modern_pool_pump_system.png";
 const maintenanceBenefits = [
   {
     icon: Shield,
-    title: "Prevent Costly Repairs",
-    description: "Regular maintenance catches small issues before they become expensive problems. Save thousands on emergency repairs."
+    title: "Prevent Major Repairs",
+    description: "Regular maintenance catches small issues before they become big problems. Protect your investment."
   },
   {
     icon: Sun,
@@ -138,7 +138,7 @@ export function PoolMaintenance() {
                   At Bali Pool Pros, our pool maintenance services are specifically designed to address these Bali-specific challenges. Our experienced technicians understand the delicate balance required to keep your pool water crystal clear and safe for swimming, while protecting your equipment from premature wear in the demanding tropical environment.
                 </p>
                 <p>
-                  Whether you own a private villa in Ubud, manage a beachfront resort in Seminyak, or have a family pool in Sanur, our maintenance programs keep your pool in perfect condition year-round. We offer flexible scheduling, transparent pricing, and eco-friendly practices that protect both your pool and Bali's beautiful environment.
+                  Whether you own a private villa in Ubud, manage a beachfront resort in Seminyak, or have a family pool in Sanur, our maintenance programs keep your pool in perfect condition year-round. We offer flexible scheduling, transparent service, and eco-friendly practices that protect both your pool and Bali's beautiful environment.
                 </p>
               </div>
             </div>

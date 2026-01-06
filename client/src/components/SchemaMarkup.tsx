@@ -44,7 +44,6 @@ const localBusinessSchema = {
     "https://instagram.com/balipoolpros",
     "https://linkedin.com/company/balipoolpros"
   ],
-  "priceRange": "$$",
   "areaServed": [
     {
       "@type": "City",

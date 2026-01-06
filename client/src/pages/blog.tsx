@@ -94,8 +94,8 @@ const blogPosts = [
         <li><strong>Dye Testing:</strong> Using specialized dye to visualize water movement at suspected leak points</li>
       </ol>
 
-      <h2>Cost of Ignoring a Pool Leak</h2>
-      <p>A pool leaking just 25mm per day wastes approximately 150,000 liters of water per year. At current Bali water rates, that's significant money literally going down the drain—not to mention the additional chemicals needed to maintain a constantly refilling pool. Beyond the immediate costs, leaks can cause soil erosion, damage landscaping, and in severe cases, undermine structural foundations.</p>
+      <h2>Impact of Ignoring a Pool Leak</h2>
+      <p>A pool leaking just 25mm per day wastes approximately 150,000 liters of water per year. That's water literally going down the drain—not to mention the additional chemicals needed to maintain a constantly refilling pool. Beyond the immediate impact, leaks can cause soil erosion, damage landscaping, and in severe cases, undermine structural foundations.</p>
     `
   },
   {
@@ -115,10 +115,10 @@ const blogPosts = [
 
       <h2>Single-Speed vs. Variable-Speed Pumps</h2>
       <h3>Single-Speed Pumps</h3>
-      <p>Traditional single-speed pumps run at one constant speed. They're less expensive upfront but use more electricity because they run at full power whenever operating. In Bali, where pools need extended run times due to the warm climate, electricity costs add up quickly.</p>
+      <p>Traditional single-speed pumps run at one constant speed. They're less expensive upfront but use more electricity because they run at full power whenever operating. In Bali, where pools need extended run times due to the warm climate, electricity usage adds up quickly.</p>
 
       <h3>Variable-Speed Pumps</h3>
-      <p>Modern variable-speed pumps adjust their speed based on needs. For daily circulation, they run at low speed, using a fraction of the electricity. For vacuuming or running water features, they can ramp up to full power. Despite higher purchase costs, variable-speed pumps typically pay for themselves within 1-2 years through electricity savings.</p>
+      <p>Modern variable-speed pumps adjust their speed based on needs. For daily circulation, they run at low speed, using a fraction of the electricity. For vacuuming or running water features, they can ramp up to full power. Variable-speed pumps offer significant electricity savings over time.</p>
 
       <h2>Top Pump Brands We Recommend for Bali</h2>
       <ul>
@@ -169,14 +169,14 @@ const blogPosts = [
       <ul>
         <li><strong>Gentler on skin and eyes:</strong> The chlorine concentration is lower and more consistent, reducing irritation</li>
         <li><strong>Softer water feel:</strong> Many swimmers prefer the silkier sensation of saltwater</li>
-        <li><strong>Lower ongoing chemical costs:</strong> You just add salt, which is inexpensive</li>
+        <li><strong>Lower ongoing chemical needs:</strong> You just add salt periodically</li>
         <li><strong>More consistent sanitation:</strong> The generator produces chlorine continuously</li>
         <li><strong>Less chemical handling:</strong> No need to store and handle chlorine products</li>
       </ul>
 
       <h2>Saltwater Pool Disadvantages</h2>
       <ul>
-        <li><strong>Higher initial cost:</strong> Salt systems require upfront investment to install - contact us to get a price</li>
+        <li><strong>Higher initial investment:</strong> Salt systems require upfront investment to install - contact us to get a price</li>
         <li><strong>Salt cell replacement:</strong> Cells last 3-7 years and require periodic replacement</li>
         <li><strong>Potential corrosion:</strong> Salt can damage some materials if not properly managed</li>
         <li><strong>More complex repairs:</strong> The generator adds another system that can fail</li>
@@ -184,7 +184,7 @@ const blogPosts = [
 
       <h2>Traditional Chlorine Pool Advantages</h2>
       <ul>
-        <li><strong>Lower initial cost:</strong> No special equipment needed</li>
+        <li><strong>Lower initial investment:</strong> No special equipment needed</li>
         <li><strong>Simpler system:</strong> Fewer components that can fail</li>
         <li><strong>Easier shock treatment:</strong> Can quickly raise chlorine for algae control</li>
         <li><strong>No corrosion concerns:</strong> When properly maintained, no salt-related damage</li>
@@ -195,7 +195,7 @@ const blogPosts = [
         <li><strong>Regular chemical handling:</strong> Need to store and add chlorine products</li>
         <li><strong>More maintenance attention:</strong> Chlorine levels fluctuate more</li>
         <li><strong>Potential for over-chlorination:</strong> Can cause that "pool smell" and irritation</li>
-        <li><strong>Higher ongoing costs:</strong> Chlorine products add up over time</li>
+        <li><strong>Higher ongoing chemical needs:</strong> Chlorine products needed regularly</li>
       </ul>
 
       <h2>Considerations for Bali's Climate</h2>
@@ -217,7 +217,7 @@ const blogPosts = [
     readTime: "7 min read",
     category: "Pool Maintenance",
     content: `
-      <p>Pool tiles add beauty and functionality to your swimming pool, but Bali's tropical conditions can take their toll. Proper tile care keeps your pool looking stunning while preventing damage that can lead to costly repairs. Here's everything you need to know about pool tile maintenance in Bali.</p>
+      <p>Pool tiles add beauty and functionality to your swimming pool, but Bali's tropical conditions can take their toll. Proper tile care keeps your pool looking stunning while preventing damage that can lead to repairs. Here's everything you need to know about pool tile maintenance in Bali.</p>
 
       <h2>Common Pool Tile Issues in Bali</h2>
       <h3>Calcium Buildup</h3>
