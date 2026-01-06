@@ -1,11 +1,11 @@
-# Bali Pool Pros Robots.txt
-# https://balipoolpros.com
+# BalipoolCare.online Robots.txt
+# https://balipoolcare.online
 
 User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://balipoolpros.com/sitemap.xml
+Sitemap: https://balipoolcare.online/sitemap.xml
 
 # Disallow private/admin areas (if any)
 Disallow: /api/

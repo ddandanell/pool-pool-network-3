@@ -13,6 +13,9 @@ import { PoolRepair } from "@/pages/pool-repair";
 import { PoolInstallation } from "@/pages/pool-installation";
 import { Contact } from "@/pages/contact";
 import { Blog } from "@/pages/blog";
+import { PoolCleaningBali } from "@/pages/pool-cleaning-bali";
+import { GreenPoolRescueBali } from "@/pages/green-pool-rescue-bali";
+import { VillaPoolServiceBali } from "@/pages/villa-pool-service-bali";
 
 function Router() {
   return (
@@ -25,6 +28,10 @@ function Router() {
       <Route path="/pool-installation" component={PoolInstallation} />
       <Route path="/contact" component={Contact} />
       <Route path="/blog" component={Blog} />
+      <Route path="/pool-cleaning-bali" component={PoolCleaningBali} />
+      <Route path="/green-pool-rescue-bali" component={GreenPoolRescueBali} />
+      <Route path="/villa-pool-service-bali" component={VillaPoolServiceBali} />
+      <Route path="/swimming-pool-maintenance-bali" component={PoolMaintenance} />
       <Route component={NotFound} />
     </Switch>
   );
