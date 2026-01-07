@@ -155,12 +155,6 @@ NODE_ENV=production
 SESSION_SECRET=<generate-secure-secret>
 ```
 
-✅ **Optional Variables:**
-```env
-REPL_ID=<for-replit-only>
-REPL_OWNER=<for-replit-only>
-```
-
 ### Deployment Validation
 
 ✅ **Zero Configuration Needed:**
