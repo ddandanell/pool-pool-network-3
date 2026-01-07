@@ -62,10 +62,6 @@ Add these environment variables in the Vercel project settings:
 DATABASE_URL=postgresql://user:password@host:5432/database
 NODE_ENV=production
 SESSION_SECRET=your-secure-random-secret-here
-
-# Optional (for Replit compatibility)
-# REPL_ID=
-# REPL_OWNER=
 ```
 
 **Important:** 
