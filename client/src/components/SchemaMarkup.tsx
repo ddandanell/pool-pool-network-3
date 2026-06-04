@@ -10,8 +10,8 @@ const localBusinessSchema = {
   "url": "https://balipoolpros.com",
   "logo": "https://balipoolpros.com/favicon.png",
   "image": "https://balipoolpros.com/opengraph.jpg",
-  "telephone": "+62-822-3756-5997",
-  "email": "support@poolrepairlab.com",
+  "telephone": "+62 822-3756-5997",
+  "email": "info@balipoolpros.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Jl. Raya Ubud No. 45",
@@ -35,8 +35,8 @@ const localBusinessSchema = {
     {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": "Sunday",
-      "opens": "09:00",
-      "closes": "15:00"
+      "opens": "08:00",
+      "closes": "18:00"
     }
   ],
   "sameAs": [

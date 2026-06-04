@@ -126,7 +126,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-primary flex-shrink-0" aria-hidden="true" />
-                <a href="mailto:support@poolrepairlab.com" className="hover:text-primary transition-colors">support@poolrepairlab.com</a>
+                <a href="mailto:info@balipoolpros.com" className="hover:text-primary transition-colors">info@balipoolpros.com</a>
               </li>
               <li className="pt-2">
                 <span className="text-primary font-mono text-xs uppercase tracking-wider">Emergency: 24/7 Available</span>
