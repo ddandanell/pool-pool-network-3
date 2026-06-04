@@ -247,7 +247,7 @@ SESSION_SECRET=<generate-secure-secret>
 {
   "@type": "LocalBusiness",
   "name": "Bali Pool Pros",
-  "telephone": "+62-822-3756-5997",
+  "telephone": "+62-823-2301-1656",
   "email": "support@poolrepairlab.com",
   "address": {
     "streetAddress": "Jl. Raya Ubud No. 45",
@@ -328,8 +328,8 @@ SESSION_SECRET=<generate-secure-secret>
 
 ### Verification Complete
 
-✅ **All instances updated to:** +62 822-3756-5997  
-✅ **Link format standardized:** https://wa.me/6282237565997
+✅ **All instances updated to:** +62 823-2301-1656  
+✅ **Link format standardized:** https://wa.me/6282323011656
 
 ### Locations Updated
 
@@ -357,8 +357,8 @@ SESSION_SECRET=<generate-secure-secret>
 
 ✅ **Format Validated:**
 - No spaces in wa.me URLs
-- International format: 6282237565997
-- Display format: +62 822-3756-5997
+- International format: 6282323011656
+- Display format: +62 823-2301-1656
 - All links point to correct number
 
 ---
@@ -550,8 +550,8 @@ Risk Level: Acceptable
 
 ### Content Updated ✅
 
-- [x] WhatsApp number: +62 822-3756-5997
-- [x] WhatsApp links: https://wa.me/6282237565997
+- [x] WhatsApp number: +62 823-2301-1656
+- [x] WhatsApp links: https://wa.me/6282323011656
 - [x] All prices removed
 - [x] "Contact us to get a price" messaging
 - [x] Transparent service (not pricing) language
@@ -785,7 +785,7 @@ SESSION_SECRET=dev-secret-change-in-production
 
 **Project:** Bali Pool Pros  
 **Website:** https://balipoolpros.com  
-**WhatsApp:** +62 822-3756-5997  
+**WhatsApp:** +62 823-2301-1656  
 **Email:** support@poolrepairlab.com  
 **Repository:** https://github.com/ddandanell/pool-pool-network-3
 

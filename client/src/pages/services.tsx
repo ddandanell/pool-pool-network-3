@@ -96,7 +96,7 @@ export function Services() {
                   </Button>
                 </Link>
                 <Button size="lg" variant="outline" className="h-12 px-8" asChild>
-                  <a href="https://wa.me/6282237565997" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/6282323011656" target="_blank" rel="noopener noreferrer">
                     WhatsApp Us
                   </a>
                 </Button>

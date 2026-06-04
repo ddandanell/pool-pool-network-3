@@ -328,7 +328,7 @@ export function About() {
                   <Phone className="w-6 h-6 text-primary" />
                   <div>
                     <p className="font-medium">WhatsApp Us</p>
-                    <p className="text-sm text-gray-400">+62 822-3756-5997</p>
+                    <p className="text-sm text-gray-400">+62 823-2301-1656</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 bg-white/5 rounded-lg">

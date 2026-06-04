@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Website**: [https://balipoolpros.com](https://balipoolpros.com)
-- **WhatsApp**: +62 822-3756-5997
+- **WhatsApp**: +62 823-2301-1656
 - **Email**: support@poolrepairlab.com
 - **Location**: Jl. Raya Ubud No. 45, Gianyar, Bali 80571, Indonesia
 

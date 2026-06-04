@@ -36,8 +36,8 @@ const contactInfo = [
   {
     icon: Phone,
     title: "WhatsApp",
-    content: "+62 822-3756-5997",
-    link: "https://wa.me/6282237565997"
+    content: "+62 823-2301-1656",
+    link: "https://wa.me/6282323011656"
   },
   {
     icon: Mail,
@@ -93,7 +93,7 @@ export function Contact() {
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
         title="Contact Us | Pool Service Bali | Bali Pool Pros"
-        description="Contact Bali Pool Pros for pool maintenance, repair, and installation services in Bali. Get a free quote today. WhatsApp +62 822-3756-5997 or email info@balipoolpros.com."
+        description="Contact Bali Pool Pros for pool maintenance, repair, and installation services in Bali. Get a free quote today. WhatsApp +62 823-2301-1656 or email info@balipoolpros.com."
         keywords="contact pool service Bali, pool company Bali phone, pool maintenance quote Bali, Bali pool experts contact, pool repair booking Bali"
       />
       <Navbar />
@@ -343,7 +343,7 @@ export function Contact() {
                     <Instagram className="w-5 h-5 text-primary" />
                   </a>
                   <a
-                    href="https://wa.me/6282237565997"
+                    href="https://wa.me/6282323011656"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center hover:bg-primary/20 transition-colors"

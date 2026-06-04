@@ -28,8 +28,8 @@
 - [x] Image alt texts optimized
 
 ### ✅ Content Updates
-- [x] WhatsApp number: +62 822-3756-5997
-- [x] WhatsApp link format: https://wa.me/6282237565997
+- [x] WhatsApp number: +62 823-2301-1656
+- [x] WhatsApp link format: https://wa.me/6282323011656
 - [x] All prices removed (replaced with "Contact us to get a price")
 - [x] Transparent pricing/service messaging
 

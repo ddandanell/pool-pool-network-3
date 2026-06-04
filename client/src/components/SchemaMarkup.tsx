@@ -10,7 +10,7 @@ const localBusinessSchema = {
   "url": "https://balipoolpros.com",
   "logo": "https://balipoolpros.com/favicon.png",
   "image": "https://balipoolpros.com/opengraph.jpg",
-  "telephone": "+62 822-3756-5997",
+  "telephone": "+62 823-2301-1656",
   "email": "info@balipoolpros.com",
   "address": {
     "@type": "PostalAddress",

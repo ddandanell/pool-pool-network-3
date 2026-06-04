@@ -70,7 +70,7 @@ export function Navbar() {
             )
           ))}
           <Button variant="default" size="sm" className="font-mono text-xs ml-2" asChild>
-            <a href="https://wa.me/6282237565997" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/6282323011656" target="_blank" rel="noopener noreferrer">
               <Phone className="w-3 h-3 mr-2" aria-hidden="true" />
               WhatsApp Us
             </a>
@@ -135,7 +135,7 @@ export function Navbar() {
 
               <div className="pt-4 mt-2 border-t border-border">
                 <Button className="w-full font-mono" asChild>
-                  <a href="https://wa.me/6282237565997" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/6282323011656" target="_blank" rel="noopener noreferrer">
                     <Phone className="w-4 h-4 mr-2" aria-hidden="true" />
                     WhatsApp Us
                   </a>

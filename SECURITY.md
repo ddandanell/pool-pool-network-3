@@ -199,7 +199,7 @@ Our `vercel.json` configures these security headers:
 ## Security Contacts
 
 - **Primary:** support@poolrepairlab.com
-- **Emergency:** Available 24/7 via WhatsApp (+62 822-3756-5997)
+- **Emergency:** Available 24/7 via WhatsApp (+62 823-2301-1656)
 
 ## Version History
 

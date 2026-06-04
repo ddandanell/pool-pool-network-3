@@ -53,7 +53,7 @@ export function Hero({ onBookClick }: HeroProps) {
               <ArrowRight className="ml-2 w-4 h-4" aria-hidden="true" />
             </Button>
             <Button size="lg" variant="outline" className="h-12 px-8 text-base bg-white/50 backdrop-blur-sm hover:bg-white/80 border-primary/20" asChild>
-              <a href="https://wa.me/6282237565997" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6282323011656" target="_blank" rel="noopener noreferrer">
                 <Phone className="mr-2 w-4 h-4" aria-hidden="true" />
                 WhatsApp Us
               </a>

@@ -104,7 +104,7 @@ export function PoolRepair() {
                   </Button>
                 </Link>
                 <Button size="lg" variant="outline" className="h-12 px-8 border-destructive/30 text-destructive hover:bg-destructive/10" asChild>
-                  <a href="https://wa.me/6282237565997" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/6282323011656" target="_blank" rel="noopener noreferrer">
                     WhatsApp Emergency
                   </a>
                 </Button>
@@ -354,7 +354,7 @@ export function PoolRepair() {
               Major leak, pump failure, or another urgent issue? Our emergency response team is available 24/7 across Bali. Contact us via WhatsApp now.
             </p>
             <Button size="lg" variant="destructive" className="h-14 px-10 text-lg" asChild>
-              <a href="https://wa.me/6282237565997" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6282323011656" target="_blank" rel="noopener noreferrer">
                 WhatsApp Emergency
               </a>
             </Button>

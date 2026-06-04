@@ -21,7 +21,7 @@ const faqData = [
   },
   {
     question: "Do you provide emergency pool repair services?",
-    answer: "Yes, we offer 24/7 emergency pool repair services across Bali. Whether it's a pump failure at your villa, a leak at your resort, or any urgent pool issue, our technical team can respond quickly. Contact us via WhatsApp at +62 822-3756-5997 for immediate assistance."
+    answer: "Yes, we offer 24/7 emergency pool repair services across Bali. Whether it's a pump failure at your villa, a leak at your resort, or any urgent pool issue, our technical team can respond quickly. Contact us via WhatsApp at +62 823-2301-1656 for immediate assistance."
   },
   {
     question: "What areas of Bali do you service?",
