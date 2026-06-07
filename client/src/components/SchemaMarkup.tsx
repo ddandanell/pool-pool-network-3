@@ -11,7 +11,7 @@ const localBusinessSchema = {
   "logo": "https://balipoolpros.com/favicon.png",
   "image": "https://balipoolpros.com/opengraph.jpg",
   "telephone": "+62 823-2301-1656",
-  "email": "info@balipoolpros.com",
+  "email": "info@balipoolservice.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Jl. Raya Ubud No. 45",

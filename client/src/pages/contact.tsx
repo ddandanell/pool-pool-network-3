@@ -42,8 +42,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    content: "info@balipoolpros.com\info@balipoolpros.com",
-    link: "mailto:info@balipoolpros.com"
+    content: "info@balipoolservice.com\info@balipoolservice.com",
+    link: "mailto:info@balipoolservice.com"
   },
   {
     icon: Clock,
@@ -93,7 +93,7 @@ export function Contact() {
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
         title="Contact Us | Pool Service Bali | Bali Pool Pros"
-        description="Contact Bali Pool Pros for pool maintenance, repair, and installation services in Bali. Get a free quote today. WhatsApp +62 823-2301-1656 or email info@balipoolpros.com."
+        description="Contact Bali Pool Pros for pool maintenance, repair, and installation services in Bali. Get a free quote today. WhatsApp +62 823-2301-1656 or email info@balipoolservice.com."
         keywords="contact pool service Bali, pool company Bali phone, pool maintenance quote Bali, Bali pool experts contact, pool repair booking Bali"
       />
       <Navbar />

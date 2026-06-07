@@ -335,7 +335,7 @@ export function About() {
                   <Mail className="w-6 h-6 text-primary" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-sm text-gray-400">info@balipoolpros.com</p>
+                    <p className="text-sm text-gray-400">info@balipoolservice.com</p>
                   </div>
                 </div>
               </div>
