@@ -6,6 +6,7 @@ interface SEOHeadProps {
   keywords?: string;
   canonicalUrl?: string;
   ogImage?: string;
+  ogType?: string;
 }
 
 export function SEOHead({ 
@@ -13,43 +14,58 @@ export function SEOHead({
   description, 
   keywords = "pool service Bali, pool maintenance Bali, pool cleaning Bali, pool repair Bali, swimming pool installation Bali, Bali pool experts",
   canonicalUrl,
-  ogImage = "/opengraph.jpg"
+  ogImage = "/opengraph.jpg",
+  ogType = "website"
 }: SEOHeadProps) {
   useEffect(() => {
     // Update document title
     document.title = title;
 
-    // Update or create meta tags
-    const updateMetaTag = (name: string, content: string, property?: boolean) => {
-      const attr = property ? 'property' : 'name';
-      let element = document.querySelector(`meta[${attr}="${name}"]`) as HTMLMetaElement;
+    // Helper to update or create meta elements
+    const upsertMeta = (attr: string, value: string, content: string, isProperty: boolean = false) => {
+      const selector = isProperty ? `meta[property="${value}"]` : `meta[name="${value}"]`;
+      let element = document.querySelector(selector) as HTMLMetaElement;
       if (!element) {
         element = document.createElement('meta');
-        element.setAttribute(attr, name);
+        element.setAttribute(isProperty ? 'property' : 'name', value);
         document.head.appendChild(element);
       }
       element.content = content;
     };
 
-    updateMetaTag('description', description);
-    updateMetaTag('keywords', keywords);
-    updateMetaTag('og:title', title, true);
-    updateMetaTag('og:description', description, true);
-    updateMetaTag('og:image', ogImage, true);
-    updateMetaTag('twitter:title', title);
-    updateMetaTag('twitter:description', description);
-
-    // Update canonical URL if provided
-    if (canonicalUrl) {
-      let link = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
+    const upsertLink = (rel: string, href: string) => {
+      let link = document.querySelector(`link[rel="${rel}"]`) as HTMLLinkElement;
       if (!link) {
         link = document.createElement('link');
-        link.rel = 'canonical';
+        link.rel = rel;
         document.head.appendChild(link);
       }
-      link.href = canonicalUrl;
-    }
-  }, [title, description, keywords, canonicalUrl, ogImage]);
+      link.href = href;
+    };
+
+    // Standard meta
+    upsertMeta('name', 'description', description);
+    upsertMeta('name', 'keywords', keywords);
+
+    // Open Graph
+    upsertMeta('property', 'og:title', title, true);
+    upsertMeta('property', 'og:description', description, true);
+    upsertMeta('property', 'og:image', ogImage, true);
+    upsertMeta('property', 'og:url', canonicalUrl || window.location.href, true);
+    upsertMeta('property', 'og:type', ogType, true);
+    upsertMeta('property', 'og:site_name', 'Bali Pool Care', true);
+    upsertMeta('property', 'og:locale', 'en_US', true);
+
+    // Twitter Card
+    upsertMeta('name', 'twitter:card', 'summary_large_image');
+    upsertMeta('name', 'twitter:title', title);
+    upsertMeta('name', 'twitter:description', description);
+    upsertMeta('name', 'twitter:image', ogImage);
+    upsertMeta('name', 'twitter:url', canonicalUrl || window.location.href);
+
+    // Canonical URL
+    upsertLink('canonical', canonicalUrl || window.location.href);
+  }, [title, description, keywords, canonicalUrl, ogImage, ogType]);
 
   return null;
 }

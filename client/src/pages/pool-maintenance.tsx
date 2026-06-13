@@ -69,7 +69,7 @@ export function PoolMaintenance() {
   return (
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
-        title="Pool Maintenance Bali | Weekly & Monthly Pool Care Services | Bali Pool Pros"
+        title="Pool Maintenance Bali | Weekly & Monthly Pool Care Services | Bali Pool Care"
         description="Professional pool maintenance services in Bali. Weekly cleaning, water testing, chemical balancing, and equipment care for villas, resorts, and homes. Keep your pool crystal clear year-round."
         keywords="pool maintenance Bali, pool cleaning service Bali, weekly pool maintenance, pool care Bali, swimming pool maintenance, pool water testing Bali, pool chemical service Bali"
       />
@@ -135,7 +135,7 @@ export function PoolMaintenance() {
                   Maintaining a pool in Bali requires specialized knowledge and consistent care. The island's tropical climate—with high humidity, intense sunlight, and seasonal monsoons—creates unique challenges for pool owners. Algae can bloom rapidly, water chemistry fluctuates frequently, and debris from tropical vegetation accumulates quickly.
                 </p>
                 <p>
-                  At Bali Pool Pros, our pool maintenance services are specifically designed to address these Bali-specific challenges. Our experienced technicians understand the delicate balance required to keep your pool water crystal clear and safe for swimming, while protecting your equipment from premature wear in the demanding tropical environment.
+                  At Bali Pool Care, our pool maintenance services are specifically designed to address these Bali-specific challenges. Our experienced technicians understand the delicate balance required to keep your pool water crystal clear and safe for swimming, while protecting your equipment from premature wear in the demanding tropical environment.
                 </p>
                 <p>
                   Whether you own a private villa in Ubud, manage a beachfront resort in Seminyak, or have a family pool in Sanur, our maintenance programs keep your pool in perfect condition year-round. We offer flexible scheduling, transparent service, and eco-friendly practices that protect both your pool and Bali's beautiful environment.

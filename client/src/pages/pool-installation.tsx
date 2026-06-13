@@ -73,7 +73,7 @@ export function PoolInstallation() {
   return (
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
-        title="Pool Installation Bali | Custom Swimming Pool Construction | Bali Pool Pros"
+        title="Pool Installation Bali | Custom Swimming Pool Construction | Bali Pool Care"
         description="Expert swimming pool installation in Bali. Custom infinity pools, villa pools, and resort pools. Professional design and construction. Get your dream pool built by Bali's pool experts."
         keywords="pool installation Bali, swimming pool construction Bali, infinity pool Bali, villa pool construction, pool builder Bali, custom pool design Bali, pool contractor Bali"
       />
@@ -136,7 +136,7 @@ export function PoolInstallation() {
               </h2>
               <div className="prose prose-lg text-muted-foreground space-y-4">
                 <p>
-                  A swimming pool is more than just a place to swim—it's the centerpiece of your Bali property, a sanctuary for relaxation, and an investment in your lifestyle. At Bali Pool Pros, we design and build custom pools that capture the essence of tropical paradise while meeting the highest standards of quality and durability.
+                  A swimming pool is more than just a place to swim—it's the centerpiece of your Bali property, a sanctuary for relaxation, and an investment in your lifestyle. At Bali Pool Care, we design and build custom pools that capture the essence of tropical paradise while meeting the highest standards of quality and durability.
                 </p>
                 <p>
                   Our pool installation team combines international construction standards with deep knowledge of Bali's unique conditions. We understand the challenges of building in volcanic soil, the importance of proper drainage during monsoon season, and how to create pools that complement the island's stunning natural landscapes. We collaborate with leading water system specialists like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> for optimal water management.

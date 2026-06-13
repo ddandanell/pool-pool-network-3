@@ -68,7 +68,7 @@ export function PoolRepair() {
   return (
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
-        title="Pool Repair Bali | Leak Detection, Pump Repair & Equipment Service | Bali Pool Pros"
+        title="Pool Repair Bali | Leak Detection, Pump Repair & Equipment Service | Bali Pool Care"
         description="Expert pool repair services in Bali. Ultrasonic leak detection, pump repair, filter service, and structural repairs. 24/7 emergency service. 1-year warranty. Serving all of Bali."
         keywords="pool repair Bali, pool leak detection Bali, pool pump repair Bali, pool equipment repair, swimming pool repair service, Bali pool technicians, pool leak repair"
       />
@@ -136,7 +136,7 @@ export function PoolRepair() {
                   Pool problems in Bali can quickly escalate from minor inconveniences to major expenses. A small leak can waste thousands of liters of water and damage surrounding structures. A failing pump can leave your pool unfiltered and unsafe within days. That's why prompt, professional pool repair is essential in Bali's demanding tropical environment. We work with trusted water system specialists like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> for comprehensive solutions.
                 </p>
                 <p>
-                  At Bali Pool Pros, we specialize in diagnosing and repairing pool problems with precision and efficiency. Our team of certified technicians uses advanced diagnostic equipment—including ultrasonic leak detectors and pressure testing systems—to identify issues accurately without unnecessary destruction or guesswork. As a leading member of the <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Bali pool service network</a>, we maintain the highest standards of quality and service.
+                  At Bali Pool Care, we specialize in diagnosing and repairing pool problems with precision and efficiency. Our team of certified technicians uses advanced diagnostic equipment—including ultrasonic leak detectors and pressure testing systems—to identify issues accurately without unnecessary destruction or guesswork. As a leading member of the <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Bali pool service network</a>, we maintain the highest standards of quality and service.
                 </p>
                 <p>
                   From minor seal replacements to major structural repairs, we have the expertise and equipment to handle any pool repair challenge. We service all major equipment brands, stock common spare parts for quick repairs, and provide a 1-year warranty on all our work. Whether it's an emergency at 2 AM or a scheduled repair, our team is ready to restore your pool to perfect condition.

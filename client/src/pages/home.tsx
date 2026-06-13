@@ -54,7 +54,7 @@ export function Home() {
   return (
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
-        title="Pool Service Bali | Expert Pool Maintenance, Repair & Installation | Bali Pool Pros"
+        title="Pool Service Bali | Expert Pool Maintenance, Repair & Installation | Bali Pool Care"
         description="Bali's premier pool service company. Expert pool maintenance, repair, leak detection, and installation for villas, resorts, and homes. 15+ years experience. 24/7 emergency service. Contact us via WhatsApp."
         keywords="pool service Bali, pool maintenance Bali, pool cleaning Bali, pool repair Bali, swimming pool installation Bali, Bali pool experts, pool leak detection Bali, villa pool service Bali"
       />
@@ -84,13 +84,13 @@ export function Home() {
               </h2>
               <div className="prose prose-lg text-muted-foreground space-y-4">
                 <p>
-                  Welcome to Bali Pool Pros, your expert partner for all pool services in Bali. Since 2010, we've been helping villa owners, resort managers, and homeowners keep their pools in pristine condition. Our team of 50+ certified technicians combines local expertise with international standards to deliver exceptional results. We collaborate with trusted partners like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> for comprehensive water quality solutions.
+                  Welcome to Bali Pool Care, your expert partner for all pool services in Bali. Since 2010, we've been helping villa owners, resort managers, and homeowners keep their pools in pristine condition. Our team of 50+ certified technicians combines local expertise with international standards to deliver exceptional results. We collaborate with trusted partners like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> for comprehensive water quality solutions.
                 </p>
                 <p>
                   Operating a pool in Bali's tropical climate presents unique challenges—from rapid algae growth due to warmth and humidity, to equipment wear from constant use and monsoon season complications. That's why our pool services are specifically designed for Bali's conditions. As part of the broader <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Bali pool service network</a>, we don't just maintain pools; we understand them.
                 </p>
                 <p>
-                  Whether you need weekly maintenance to keep your villa pool sparkling, emergency repair for a leaking resort pool, or expert installation of a new infinity pool overlooking rice fields, Bali Pool Pros has you covered. Experience the difference of working with Bali's pool experts.
+                  Whether you need weekly maintenance to keep your villa pool sparkling, emergency repair for a leaking resort pool, or expert installation of a new infinity pool overlooking rice fields, Bali Pool Care has you covered. Experience the difference of working with Bali's pool experts.
                 </p>
               </div>
               <div className="mt-8 flex flex-wrap gap-4">
@@ -173,7 +173,7 @@ export function Home() {
         <section className="py-16 md:py-20 container px-4 md:px-6">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Why Choose Bali Pool Pros?
+              Why Choose Bali Pool Care?
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               We're not just another pool company. Here's what sets our pool service in Bali apart.

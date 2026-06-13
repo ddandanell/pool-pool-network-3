@@ -12,7 +12,7 @@ const teamMembers = [
   {
     name: "I Made Putra",
     role: "Founder & Lead Technician",
-    bio: "With over 15 years of experience in pool repair and maintenance, Made founded Bali Pool Pros to bring professional pool services to the island. He specializes in Bali's unique water systems and has trained over 50 local technicians.",
+    bio: "With over 15 years of experience in pool repair and maintenance, Made founded Bali Pool Care to bring professional pool services to the island. He specializes in Bali's unique water systems and has trained over 50 local technicians.",
     expertise: "Leak Detection, Equipment Repair"
   },
   {
@@ -51,9 +51,9 @@ export function About() {
   return (
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
-        title="About Us | Bali Pool Pros - Expert Pool Service Team in Bali"
-        description="Learn about Bali Pool Pros, Bali's leading pool service company. Our expert team of pool technicians has served over 500 villas and resorts since 2010. Meet our certified professionals."
-        keywords="Bali pool experts, pool service team Bali, pool technicians Bali, about Bali Pool Pros, pool maintenance company Bali"
+        title="About Us | Bali Pool Care - Expert Pool Service Team in Bali"
+        description="Learn about Bali Pool Care, Bali's leading pool service company. Our expert team of pool technicians has served over 500 villas and resorts since 2010. Meet our certified professionals."
+        keywords="Bali pool experts, pool service team Bali, pool technicians Bali, about Bali Pool Care, pool maintenance company Bali"
       />
       <Navbar />
 
@@ -63,7 +63,7 @@ export function About() {
           <div className="absolute inset-0 z-0">
             <img
               src={heroImage}
-              alt="Bali Pool Pros team providing professional pool service in Bali"
+              alt="Bali Pool Care team providing professional pool service in Bali"
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-background/95 via-background/70 to-background/40" />
@@ -71,7 +71,7 @@ export function About() {
           <div className="container relative z-10 h-full flex items-center px-4 md:px-6">
             <div className="max-w-2xl">
               <h1 className="text-4xl md:text-6xl font-bold mb-6">
-                About <span className="text-primary">Bali Pool Pros</span>
+                About <span className="text-primary">Bali Pool Care</span>
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
                 Bali's most trusted pool service company since 2010. We combine local expertise with international standards to deliver exceptional pool maintenance, repair, and installation services.
@@ -89,7 +89,7 @@ export function About() {
               </h2>
               <div className="prose prose-lg text-muted-foreground space-y-4">
                 <p>
-                  At Bali Pool Pros, we understand that your pool is more than just a place to swim—it's the heart of your villa, resort, or home. In Bali's tropical paradise, a crystal-clear pool enhances the beauty of your property and provides a refreshing escape from the warm climate. That's why we've dedicated ourselves to becoming Bali's premier pool service provider.
+                  At Bali Pool Care, we understand that your pool is more than just a place to swim—it's the heart of your villa, resort, or home. In Bali's tropical paradise, a crystal-clear pool enhances the beauty of your property and provides a refreshing escape from the warm climate. That's why we've dedicated ourselves to becoming Bali's premier pool service provider.
                 </p>
                 <p>
                   Our team of certified technicians brings together the best of local knowledge and international expertise. We understand the unique challenges that Bali's climate presents: the high humidity that accelerates algae growth, the monsoon seasons that bring debris and affect water chemistry, and the mineral-rich local water that can cause scaling and equipment issues. We partner with industry leaders like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> to ensure comprehensive water quality management.
@@ -149,7 +149,7 @@ export function About() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">The Beginning</h3>
                   <p className="text-muted-foreground">
-                    Founded by I Made Putra, a local Balinese pool technician, and John Anderson, an expatriate engineer from California, Bali Pool Pros started as a small maintenance team serving villas in the Ubud area. With just three technicians and a commitment to quality, we began building our reputation one pool at a time.
+                    Founded by I Made Putra, a local Balinese pool technician, and John Anderson, an expatriate engineer from California, Bali Pool Care started as a small maintenance team serving villas in the Ubud area. With just three technicians and a commitment to quality, we began building our reputation one pool at a time.
                   </p>
                 </div>
               </div>
@@ -197,7 +197,7 @@ export function About() {
                 <div>
                   <h3 className="text-xl font-bold mb-2">Island-Wide Coverage</h3>
                   <p className="text-muted-foreground">
-                    Today, Bali Pool Pros serves the entire island with a team of over 50 certified technicians. We've completed more than 500 projects, from simple repairs to complete infinity pool installations. Our dedication to excellence has earned us a 4.9-star rating from hundreds of satisfied clients.
+                    Today, Bali Pool Care serves the entire island with a team of over 50 certified technicians. We've completed more than 500 projects, from simple repairs to complete infinity pool installations. Our dedication to excellence has earned us a 4.9-star rating from hundreds of satisfied clients.
                   </p>
                 </div>
               </div>

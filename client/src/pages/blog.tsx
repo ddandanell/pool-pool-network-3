@@ -43,7 +43,7 @@ const blogPosts = [
       <p>During monsoon season, it's wise to add a quality algaecide as a preventive measure. This creates an additional barrier against algae blooms, which can develop quickly in Bali's warm, humid conditions.</p>
 
       <h2>When to Call a Professional</h2>
-      <p>If you notice persistent cloudiness, visible algae growth, or can't maintain proper chemical balance despite your efforts, it's time to call the professionals. At Bali Pool Pros, we offer specialized monsoon season maintenance packages that include more frequent visits and proactive treatment.</p>
+      <p>If you notice persistent cloudiness, visible algae growth, or can't maintain proper chemical balance despite your efforts, it's time to call the professionals. At Bali Pool Care, we offer specialized monsoon season maintenance packages that include more frequent visits and proactive treatment.</p>
     `
   },
   {
@@ -86,7 +86,7 @@ const blogPosts = [
       </ul>
 
       <h2>Professional Leak Detection in Bali</h2>
-      <p>At Bali Pool Pros, we use advanced technology to locate leaks precisely without destructive excavation. As part of the professional <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" style="color: #3b82f6; font-weight: 600; text-decoration: none;">Bali pool service network</a>, our process includes:</p>
+      <p>At Bali Pool Care, we use advanced technology to locate leaks precisely without destructive excavation. As part of the professional <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" style="color: #3b82f6; font-weight: 600; text-decoration: none;">Bali pool service network</a>, our process includes:</p>
       <ol>
         <li><strong>Visual Inspection:</strong> Examining the pool, equipment, and surrounding area for obvious issues</li>
         <li><strong>Pressure Testing:</strong> Isolating and pressurizing plumbing lines to identify line leaks</li>
@@ -147,7 +147,7 @@ const blogPosts = [
         <li>Schedule annual professional inspection and service</li>
       </ol>
 
-      <p>At Bali Pool Pros, we're authorized service providers for all major pump brands. Whether you need pump selection advice, installation, or repair, our certified technicians are here to help.</p>
+      <p>At Bali Pool Care, we're authorized service providers for all major pump brands. Whether you need pump selection advice, installation, or repair, our certified technicians are here to help.</p>
     `
   },
   {
@@ -204,7 +204,7 @@ const blogPosts = [
       <h2>Our Recommendation</h2>
       <p>For villa pools and private residences in Bali, we generally recommend saltwater systems. The improved swimming experience and lower maintenance demands appeal to most pool owners, and the initial investment pays off over time. However, for rental properties with high turnover or pools with natural stone features that might be affected by salt, traditional chlorine may be the better choice.</p>
 
-      <p>Contact Bali Pool Pros for a personalized consultation. We can assess your specific situation and help you make the best choice for your pool and lifestyle.</p>
+      <p>Contact Bali Pool Care for a personalized consultation. We can assess your specific situation and help you make the best choice for your pool and lifestyle.</p>
     `
   },
   {
@@ -245,7 +245,7 @@ const blogPosts = [
         <li>Tiles at the waterline that have become rough or pitted</li>
       </ul>
 
-      <h2>Professional Tile Services from Bali Pool Pros</h2>
+      <h2>Professional Tile Services from Bali Pool Care</h2>
       <p>Our tile specialists offer a range of services to keep your pool looking its best:</p>
       <ul>
         <li><strong>Power washing:</strong> Removing stubborn buildup without damaging tiles</li>
@@ -264,7 +264,7 @@ export function Blog() {
   return (
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
-        title="Pool Care Blog Bali | Tips, Guides & Expert Advice | Bali Pool Pros"
+        title="Pool Care Blog Bali | Tips, Guides & Expert Advice | Bali Pool Care"
         description="Expert pool care tips and guides for Bali pool owners. Learn about pool maintenance, repair, water chemistry, and more from Bali's leading pool service professionals."
         keywords="pool care tips Bali, pool maintenance blog, Bali pool advice, swimming pool guides, pool repair tips Bali, pool water chemistry"
       />
@@ -388,7 +388,7 @@ export function Blog() {
                 Need Professional Pool Service?
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto mb-8">
-                Our blog provides valuable tips, but nothing beats professional service. Contact Bali Pool Pros for expert maintenance, repair, or installation.
+                Our blog provides valuable tips, but nothing beats professional service. Contact Bali Pool Care for expert maintenance, repair, or installation.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link href="/contact">

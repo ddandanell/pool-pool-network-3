@@ -3,13 +3,13 @@ import { useEffect } from "react";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://balipoolpros.com",
-  "name": "Bali Pool Pros - Pool Service Bali",
-  "alternateName": "Bali Pool Repair Lab",
+  "@id": "https://balipoolcare.online",
+  "name": "Bali Pool Care - Pool Service Bali",
+  "alternateName": "Bali Pool Service",
   "description": "Bali's premier pool service company specializing in pool maintenance, repair, cleaning, and installation. Expert technicians serving villas, resorts, and residential properties across Bali.",
-  "url": "https://balipoolpros.com",
-  "logo": "https://balipoolpros.com/favicon.png",
-  "image": "https://balipoolpros.com/opengraph.jpg",
+  "url": "https://balipoolcare.online",
+  "logo": "https://balipoolcare.online/favicon.png",
+  "image": "https://balipoolcare.online/opengraph.jpg",
   "telephone": "+62 823-2301-1656",
   "email": "info@balipoolservice.com",
   "address": {
@@ -35,8 +35,8 @@ const localBusinessSchema = {
     {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": "Sunday",
-      "opens": "08:00",
-      "closes": "18:00"
+      "opens": "09:00",
+      "closes": "15:00"
     }
   ],
   "sameAs": [
@@ -45,38 +45,20 @@ const localBusinessSchema = {
     "https://linkedin.com/company/balipoolpros"
   ],
   "areaServed": [
-    {
-      "@type": "City",
-      "name": "Ubud"
-    },
-    {
-      "@type": "City",
-      "name": "Seminyak"
-    },
-    {
-      "@type": "City",
-      "name": "Canggu"
-    },
-    {
-      "@type": "City",
-      "name": "Sanur"
-    },
-    {
-      "@type": "City",
-      "name": "Nusa Dua"
-    },
-    {
-      "@type": "City",
-      "name": "Jimbaran"
-    },
-    {
-      "@type": "City",
-      "name": "Uluwatu"
-    },
-    {
-      "@type": "City",
-      "name": "Kuta"
-    }
+    { "@type": "City", "name": "Ubud" },
+    { "@type": "City", "name": "Seminyak" },
+    { "@type": "City", "name": "Canggu" },
+    { "@type": "City", "name": "Sanur" },
+    { "@type": "City", "name": "Nusa Dua" },
+    { "@type": "City", "name": "Jimbaran" },
+    { "@type": "City", "name": "Uluwatu" },
+    { "@type": "City", "name": "Kuta" },
+    { "@type": "City", "name": "Legian" },
+    { "@type": "City", "name": "Denpasar" },
+    { "@type": "City", "name": "Gianyar" },
+    { "@type": "City", "name": "Tabanan" },
+    { "@type": "City", "name": "Karangasem" },
+    { "@type": "City", "name": "Buleleng" }
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -112,6 +94,22 @@ const localBusinessSchema = {
           "@type": "Service",
           "name": "Pool Cleaning Bali",
           "description": "Professional pool cleaning services to maintain crystal clear water in Bali's tropical climate"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Green Pool Rescue Bali",
+          "description": "Emergency green pool cleaning and algae removal service across Bali"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Villa Pool Service Bali",
+          "description": "Specialized pool maintenance for vacation rental villas in Bali"
         }
       }
     ]

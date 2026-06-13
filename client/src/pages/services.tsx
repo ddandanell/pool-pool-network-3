@@ -64,7 +64,7 @@ export function Services() {
   return (
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
-        title="Pool Services in Bali | Maintenance, Repair & Installation | Bali Pool Pros"
+        title="Pool Services in Bali | Maintenance, Repair & Installation | Bali Pool Care"
         description="Comprehensive pool services in Bali: maintenance, repair, installation, cleaning, and leak detection. Expert technicians serving villas, resorts, and homes across Bali. Get a free quote today."
         keywords="pool services Bali, pool maintenance Bali, pool repair Bali, pool installation Bali, pool cleaning Bali, pool leak detection Bali, swimming pool service Bali"
       />
@@ -123,7 +123,7 @@ export function Services() {
               Our Pool Services in Bali
             </h2>
             <p className="text-muted-foreground max-w-3xl mx-auto">
-              Bali Pool Pros offers a complete range of professional pool services designed to keep your swimming pool in perfect condition. Our expert team combines local knowledge with international standards to deliver exceptional results for villas, resorts, and residential properties across Bali.
+              Bali Pool Care offers a complete range of professional pool services designed to keep your swimming pool in perfect condition. Our expert team combines local knowledge with international standards to deliver exceptional results for villas, resorts, and residential properties across Bali.
             </p>
           </div>
 
@@ -176,7 +176,7 @@ export function Services() {
                 </h2>
                 <div className="prose prose-lg text-muted-foreground space-y-4">
                   <p>
-                    Operating a pool in Bali presents unique challenges that require specialized knowledge and expertise. The tropical climate, with its high humidity and abundant rainfall during monsoon season, creates ideal conditions for algae growth and water chemistry imbalances. At Bali Pool Pros, we've spent over 15 years mastering the art of pool care in this beautiful but demanding environment. We collaborate with trusted water quality partners like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> to ensure comprehensive solutions.
+                    Operating a pool in Bali presents unique challenges that require specialized knowledge and expertise. The tropical climate, with its high humidity and abundant rainfall during monsoon season, creates ideal conditions for algae growth and water chemistry imbalances. At Bali Pool Care, we've spent over 15 years mastering the art of pool care in this beautiful but demanding environment. We collaborate with trusted water quality partners like <a href="https://aquapurebali.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Aqua Pure Bali</a> to ensure comprehensive solutions.
                   </p>
                   <p>
                     Our comprehensive pool services in Bali address every aspect of pool ownership. Whether you're a villa owner seeking reliable weekly maintenance, a resort manager needing efficient pool management, or a homeowner facing an urgent repair issue, our team of 50+ certified technicians is ready to help. As part of the leading <a href="https://balipoolservice.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-semibold">Bali pool service network</a>, we service all areas of Bali, from Ubud's lush interior to the bustling beaches of Seminyak and Canggu.
@@ -185,7 +185,7 @@ export function Services() {
                     What sets us apart is our commitment to using advanced technology and eco-friendly practices. Our ultrasonic leak detection equipment can locate hidden leaks without destructive excavation, saving you time and money. We use environmentally responsible chemicals that are effective yet gentle on Bali's precious ecosystem. And our digital reporting system keeps you informed about your pool's condition at all times.
                   </p>
                   <p>
-                    Every pool service we provide comes with our satisfaction guarantee and a 1-year warranty on repairs. We believe in transparent service with no hidden fees, and our customer service team is available around the clock for emergencies. When you choose Bali Pool Pros, you're choosing Bali's most trusted pool service provider.
+                    Every pool service we provide comes with our satisfaction guarantee and a 1-year warranty on repairs. We believe in transparent service with no hidden fees, and our customer service team is available around the clock for emergencies. When you choose Bali Pool Care, you're choosing Bali's most trusted pool service provider.
                   </p>
                 </div>
               </div>

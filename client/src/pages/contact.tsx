@@ -92,8 +92,8 @@ export function Contact() {
   return (
     <div className="min-h-screen bg-background font-sans text-foreground selection:bg-primary/20">
       <SEOHead
-        title="Contact Us | Pool Service Bali | Bali Pool Pros"
-        description="Contact Bali Pool Pros for pool maintenance, repair, and installation services in Bali. Get a free quote today. WhatsApp +62 823-2301-1656 or email info@balipoolservice.com."
+        title="Contact Us | Pool Service Bali | Bali Pool Care"
+        description="Contact Bali Pool Care for pool maintenance, repair, and installation services in Bali. Get a free quote today. WhatsApp +62 823-2301-1656 or email info@balipoolservice.com."
         keywords="contact pool service Bali, pool company Bali phone, pool maintenance quote Bali, Bali pool experts contact, pool repair booking Bali"
       />
       <Navbar />
@@ -104,7 +104,7 @@ export function Contact() {
           <div className="absolute inset-0 z-0">
             <img
               src={heroImage}
-              alt="Contact Bali Pool Pros for professional pool services in Bali"
+              alt="Contact Bali Pool Care for professional pool services in Bali"
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-background/95 via-background/70 to-background/40" />
@@ -325,7 +325,7 @@ export function Contact() {
                 <h3 className="text-xl font-bold mb-4">Connect With Us</h3>
                 <div className="flex gap-4">
                   <a
-                    href="https://facebook.com/balipoolpros"
+                    href="https://facebook.com/balipoolcare"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center hover:bg-primary/20 transition-colors"
@@ -334,7 +334,7 @@ export function Contact() {
                     <Facebook className="w-5 h-5 text-primary" />
                   </a>
                   <a
-                    href="https://instagram.com/balipoolpros"
+                    href="https://instagram.com/balipoolcare"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center hover:bg-primary/20 transition-colors"
@@ -387,12 +387,12 @@ export function Contact() {
 
               <div className="prose prose-lg text-muted-foreground space-y-6">
                 <p>
-                  At Bali Pool Pros, we pride ourselves on providing exceptional customer service alongside our technical expertise. When you contact us, you're not just reaching a pool company—you're connecting with Bali's most dedicated team of pool professionals who genuinely care about your pool and your satisfaction.
+                  At Bali Pool Care, we pride ourselves on providing exceptional customer service alongside our technical expertise. When you contact us, you're not just reaching a pool company—you're connecting with Bali's most dedicated team of pool professionals who genuinely care about your pool and your satisfaction.
                 </p>
 
                 <h3 className="text-2xl font-bold text-foreground">What to Expect When You Contact Us</h3>
                 <p>
-                  When you reach out to Bali Pool Pros, our friendly customer service team will gather the essential information about your pool needs. Whether you're requesting a quote for routine maintenance, reporting an urgent repair issue, or exploring options for a new pool installation, we'll make sure your inquiry reaches the right specialist on our team.
+                  When you reach out to Bali Pool Care, our friendly customer service team will gather the essential information about your pool needs. Whether you're requesting a quote for routine maintenance, reporting an urgent repair issue, or exploring options for a new pool installation, we'll make sure your inquiry reaches the right specialist on our team.
                 </p>
                 <p>
                   For non-emergency inquiries received during business hours (Monday-Saturday, 8 AM - 6 PM; Sunday 9 AM - 3 PM), we aim to respond within 2 hours. For after-hours emergencies, our 24/7 emergency line connects you directly with an on-call technician who can dispatch help to your location.
