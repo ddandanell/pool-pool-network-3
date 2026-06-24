@@ -178,6 +178,12 @@ export function Footer() {
             <a href="/sitemap.xml" className="hover:text-white transition-colors" target="_blank" rel="noopener">Sitemap</a>
           </div>
         </div>
+        <div className="mt-6 text-center text-xs text-gray-500 font-mono">
+          More for your Bali villa:{" "}
+          <a href="https://privatetutoringbali.com/" target="_blank" rel="noopener" className="underline hover:text-white transition-colors">private tutoring in Bali</a>{" "}
+          and an{" "}
+          <a href="https://mychef.id/" target="_blank" rel="noopener" className="underline hover:text-white transition-colors">in-villa private chef</a>.
+        </div>
       </div>
     </footer>
   );
